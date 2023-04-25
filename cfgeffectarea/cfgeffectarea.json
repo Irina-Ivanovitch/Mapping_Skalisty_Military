@@ -1,0 +1,327 @@
+{
+    "Areas": [
+	    {     "AreaName": "Skalisty-sud", 
+             "Type": "ContaminatedArea_Static", 
+             "TriggerType": "EffectTrigger",
+             "Data": { 
+                "Pos": [ 14035.000000, 21.280718, 2841.510010 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 40,
+                "OuterOffset": -80, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+       },
+       {     "AreaName": "Skalisty-centre", 
+            "Type": "ContaminatedArea_Static", 
+            "TriggerType": "EffectTrigger",
+            "Data": { 
+                "Pos": [ 13617.519531, 43.398121, 2938.592285 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        }, 
+	    {     "AreaName": "Skalisty-village", 
+             "Type": "ContaminatedArea_Static", 
+             "TriggerType": "EffectTrigger",
+             "Data": { 
+                "Pos": [ 13452.010742, 3.404814, 2888.480225 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 40,
+                "OuterOffset": -80, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+       },
+       {     "AreaName": "Skalisty-centre-2", 
+            "Type": "ContaminatedArea_Static", 
+            "TriggerType": "EffectTrigger",
+            "Data": { 
+                "Pos": [ 13553.800781, 30.486359, 3058.799561 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {     "AreaName": "Skalisty-ruines", 
+              "Type": "ContaminatedArea_Static", 
+              "TriggerType": "EffectTrigger",
+              "Data": { 
+                "Pos": [ 13685.468750, 15.562470, 2743.007080 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+	    {     "AreaName": "Skalisty-sud", 
+             "Type": "ContaminatedArea_Static", 
+             "TriggerType": "EffectTrigger",
+             "Data": { 
+                "Pos": [ 14035.000000, 0, 2841.510010 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 40,
+                "OuterOffset": -80, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+       },
+       {     "AreaName": "Skalisty-centre", 
+            "Type": "ContaminatedArea_Static", 
+            "TriggerType": "EffectTrigger",
+            "Data": { 
+                "Pos": [ 13617.519531, 0, 2938.592285 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        }, 
+	    {     "AreaName": "Skalisty-village", 
+             "Type": "ContaminatedArea_Static", 
+             "TriggerType": "EffectTrigger",
+             "Data": { 
+                "Pos": [ 13452.010742, 0, 2888.480225 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 40,
+                "OuterOffset": -80, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+       },
+       {     "AreaName": "Skalisty-centre-2", 
+            "Type": "ContaminatedArea_Static", 
+            "TriggerType": "EffectTrigger",
+            "Data": { 
+                "Pos": [ 13553.800781, 0, 3058.799561 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {     "AreaName": "Skalisty-ruines", 
+              "Type": "ContaminatedArea_Static", 
+              "TriggerType": "EffectTrigger",
+              "Data": { 
+                "Pos": [ 13685.468750, 0, 2743.007080 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {     "AreaName": "Skalisty-Centrale-Nucléaire", 
+              "Type": "ContaminatedArea_Static", 
+              "TriggerType": "EffectTrigger",
+              "Data": { 
+                "Pos": [ 13700.557617, 22.456961, 2821.065918 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {     "AreaName": "Skalisty-Centrale-Nucléaire-2", 
+              "Type": "ContaminatedArea_Static", 
+              "TriggerType": "EffectTrigger",
+              "Data": { 
+                "Pos": [ 13700.557617, 0, 2821.065918 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {     "AreaName": "Skalisty-Port-1", 
+              "Type": "ContaminatedArea_Static", 
+              "TriggerType": "EffectTrigger",
+              "Data": { 
+                "Pos": [ 14305.975586, 7.25203, 2930.942627 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {     "AreaName": "Skalisty-Port-2", 
+              "Type": "ContaminatedArea_Static", 
+              "TriggerType": "EffectTrigger",
+              "Data": { 
+                "Pos": [ 14305.975586, 0, 2930.942627 ],
+                "Radius": 100,
+                "PosHeight":50,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 25,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 60,
+                "OuterOffset": -120, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/spooky_mist"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        }			
+		
+    ],
+}
