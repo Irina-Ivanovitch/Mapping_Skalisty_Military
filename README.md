@@ -14,13 +14,13 @@
 
 3- le fichier Skalisty_island.json vous permet via le fichier cfggameplay.json d'implanter le mapping sur votre serveur.
 
-2- le fichier mapgrouppos.xml vous permet de rajouter les loots dans les bâtiments du mapping, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgrouppos.xml
+4- le fichier mapgrouppos.xml vous permet de rajouter les loots dans les bâtiments du mapping, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgrouppos.xml
 
-4- Le fichier mapgroupproto.xml génére les points des objets CS qui n'existent pas, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgroupproto.xml
+5- Le fichier mapgroupproto.xml génére les points des objets CS qui n'existent pas, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgroupproto.xml
 
-5- Le fichier ObjetsFree-Types.xml valide les objets sur votre serveur, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier types.xml.
+6- Le fichier ObjetsFree-Types.xml valide les objets sur votre serveur, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier types.xml.
 
-6- Le fichier cfgeffectarea.json vous permet de rajouter du brouillard non-toxique sur l'île, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier cfgeffectarea.json. 
+7- Le fichier cfgeffectarea.json vous permet de rajouter du brouillard non-toxique sur l'île, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier cfgeffectarea.json. 
 
  
 
@@ -41,10 +41,11 @@
 
 3- Skalisty_island.json file allows you to install the mapping on your server via the cfggameplay.json file.
 
-2- the mapgrouppos.xml file allows you to add loots in the buildings of the mapping, just copy all the lines of the file and paste them into your own mapgrouppos.xml file
+4- the mapgrouppos.xml file allows you to add loots in the buildings of the mapping, just copy all the lines of the file and paste them into your own mapgrouppos.xml file
 
-4- The mapgroupproto.xml file generates points for CS objects that do not exist, just copy all the lines of the file and paste them into your own mapgroupproto.xml file
+5- The mapgroupproto.xml file generates points for CS objects that do not exist, just copy all the lines of the file and paste them into your own mapgroupproto.xml file
 
-5- The ObjectsFree-Types.xml file to validte the objects on your server, just copy all the lines from the file and paste them into your own types.xml file.
+6- The ObjectsFree-Types.xml file to validte the objects on your server, just copy all the lines from the file and paste them into your own types.xml file.
 
-6- The cfgeffectarea.json file allows you to add no-toxic fog on the island, just copy all the lines from the file and paste them into your own cfgeffectarea.json file.
+7- The cfgeffectarea.json file allows you to add no-toxic fog on the island, just copy all the lines from the file and paste them into your own cfgeffectarea.json file.
+
