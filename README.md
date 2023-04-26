@@ -22,6 +22,12 @@
 
 7- Le fichier cfgeffectarea.json vous permet de rajouter du brouillard non-toxique sur l'île, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier cfgeffectarea.json. 
 
+8- Le Bunker est un petit mapping, proposer à la communauté par Baalshad's coding que vous pouvez retrouver ici :  https://discord.gg/bhaalshad .
+ 
+9- Merci a lui 
+ 
+10- L'entrée et la sortie se font en 1PP et au pixel pret.
+
  
 
               /////////////// -English version- ///////////////
@@ -49,3 +55,8 @@
 
 7- The cfgeffectarea.json file allows you to add no-toxic fog on the island, just copy all the lines from the file and paste them into your own cfgeffectarea.json file.
 
+8- The Bunker is a small mapping, proposed to the community by Baalsha’s coding that you can find here:  https://discord.gg/bhaalshad .
+
+9- Thanks to him 
+
+10- Input and output are done in 1 pp and pixel ready.
