@@ -59,4 +59,4 @@
 
 9- Thanks to him 
 
-10- Input and output are done in 1 pp and pixel ready.
+10- Input and output are done in 1 pp and pixel .
