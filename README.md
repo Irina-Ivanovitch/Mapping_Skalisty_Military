@@ -20,7 +20,7 @@
 
 5- Le fichier ObjetsFree-Types.xml valide les objets sur votre serveur, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier types.xml.
 
-6- Le fichier cfgeffectarea.json vous permet de rajouter du brouillard non-toxique sur l'îles, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier cfgeffectarea.json. 
+6- Le fichier cfgeffectarea.json vous permet de rajouter du brouillard non-toxique sur l'île, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier cfgeffectarea.json. 
 
  
 
@@ -47,4 +47,4 @@
 
 5- The ObjectsFree-Types.xml file to validte the objects on your server, just copy all the lines from the file and paste them into your own types.xml file.
 
-6- The cfgeffectarea.json file allows you to add no-toxic fog on the islands, just copy all the lines from the file and paste them into your own cfgeffectarea.json file.
+6- The cfgeffectarea.json file allows you to add no-toxic fog on the island, just copy all the lines from the file and paste them into your own cfgeffectarea.json file.
