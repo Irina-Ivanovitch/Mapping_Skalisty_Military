@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <!-- Reglage static = smin="0" et smax="1" 
+           Reglage dynamique dmin="0" dmax="0" ( declenchement par le joueur )
+	       a avous de regler le nombre mini et max 
+		   
+           Setting static = smin="0" and smax="1"
+           Dynamic adjustment dmin="3" dmax="4" (triggered by the player)
+           it's up to you to set the minimum and maximum number		   
+	  -->
+<territory-type>
+ <!-- TEST  -->
+ 	
+    <territory color="4278233600"> <!-- zone militaire -->
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14073.0" z="2924.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14078.0" z="2934.0" r="20"/>		
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13969.0" z="3072.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13635.0" z="2949.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13595.0" z="2915.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13741.0" z="2813.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13662.0" z="2779.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13822.0" z="2770.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14020.0" z="2762.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14085.0" z="2723.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14115.0" z="2746.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14127.0" z="2739.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14148.0" z="2689.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13953.0" z="2861.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="14022.0" z="2810.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="0" smax="1" dmin="3" dmax="4" x="13417.0" z="3255.0" r="20"/>
+        <zone name="InfectedArmyHard" smin="1" smax="1" dmin="5" dmax="6" x="13277.0" z="2765.0" r="20"/>    <!-- Phare -->		
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="2" dmax="3" x="13899.0" z="2801.0" r="20"/>	     <!-- Medic -->	
+    </territory>
+	<territory color="4294901887"> <!-- zone village -->
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="3" x="13422.7" z="3256.82" r="20"/>   			
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13782.73" z="2919.90" r="20"/>
+		<zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13375.00" z="3046.34" r="20"/>
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="14140.40" z="2866.24" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="14051.87" z="2851.56" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13964.42" z="2931.50" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13877.89" z="2917.12" r="20"/>				
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13534.00" z="3039.34" r="20"/>	
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13482.34" z="2849.88" r="20"/> 	
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13431.57" z="3050.23" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13909.67" z="3039.87" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13753.42" z="3073.12" r="20"/> 		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13728.57" z="3156.78" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13665.54" z="3294.12" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13668.76" z="3255.21" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13615.70" z="3173.04" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13618.80" z="3047.95" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13692.44" z="3003.21" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13548.81" z="2789.19" r="20"/>		
+        <zone name="InfectedArmy" smin="0" smax="1" dmin="3" dmax="4" x="13629.71" z="3335.12" r="20"/>		
+    </territory>
+</territory-type>
