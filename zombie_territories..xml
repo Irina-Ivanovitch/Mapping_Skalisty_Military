@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
       <!-- Reglage static = smin="0" et smax="1" 
-           Reglage dynamique dmin="0" dmax="0" ( declenchement par le joueur )
+           Reglage dynamique dmin="3" dmax="4" ( declenchement par le joueur )
 	       a avous de regler le nombre mini et max 
 		   
            Setting static = smin="0" and smax="1"
