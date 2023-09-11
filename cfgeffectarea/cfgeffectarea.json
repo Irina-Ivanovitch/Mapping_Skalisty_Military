@@ -1,7 +1,7 @@
 {
     "Areas": [
 	    {     "AreaName": "Skalisty-sud", 
-             "Type": "ContaminatedArea_Static", 
+             "Type": "SpookyArea", 
              "TriggerType": "EffectTrigger",
              "Data": { 
                 "Pos": [ 14035.000000, 21.280718, 2841.510010 ],
@@ -19,12 +19,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
        },
        {     "AreaName": "Skalisty-centre", 
-            "Type": "ContaminatedArea_Static", 
+            "Type": "SpookyArea", 
             "TriggerType": "EffectTrigger",
             "Data": { 
                 "Pos": [ 13617.519531, 43.398121, 2938.592285 ],
@@ -42,12 +42,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         }, 
 	    {     "AreaName": "Skalisty-village", 
-             "Type": "ContaminatedArea_Static", 
+             "Type": "SpookyArea", 
              "TriggerType": "EffectTrigger",
              "Data": { 
                 "Pos": [ 13452.010742, 3.404814, 2888.480225 ],
@@ -65,12 +65,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
        },
        {     "AreaName": "Skalisty-centre-2", 
-            "Type": "ContaminatedArea_Static", 
+            "Type": "SpookyArea", 
             "TriggerType": "EffectTrigger",
             "Data": { 
                 "Pos": [ 13553.800781, 30.486359, 3058.799561 ],
@@ -88,12 +88,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         },
         {     "AreaName": "Skalisty-ruines", 
-              "Type": "ContaminatedArea_Static", 
+              "Type": "SpookyArea", 
               "TriggerType": "EffectTrigger",
               "Data": { 
                 "Pos": [ 13685.468750, 15.562470, 2743.007080 ],
@@ -111,12 +111,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         },
 	    {     "AreaName": "Skalisty-sud", 
-             "Type": "ContaminatedArea_Static", 
+             "Type": "SpookyArea", 
              "TriggerType": "EffectTrigger",
              "Data": { 
                 "Pos": [ 14035.000000, 0, 2841.510010 ],
@@ -134,12 +134,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
        },
        {     "AreaName": "Skalisty-centre", 
-            "Type": "ContaminatedArea_Static", 
+            "Type": "SpookyArea", 
             "TriggerType": "EffectTrigger",
             "Data": { 
                 "Pos": [ 13617.519531, 0, 2938.592285 ],
@@ -157,12 +157,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         }, 
 	    {     "AreaName": "Skalisty-village", 
-             "Type": "ContaminatedArea_Static", 
+             "Type": "SpookyArea", 
              "TriggerType": "EffectTrigger",
              "Data": { 
                 "Pos": [ 13452.010742, 0, 2888.480225 ],
@@ -180,12 +180,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
        },
        {     "AreaName": "Skalisty-centre-2", 
-            "Type": "ContaminatedArea_Static", 
+            "Type": "SpookyArea", 
             "TriggerType": "EffectTrigger",
             "Data": { 
                 "Pos": [ 13553.800781, 0, 3058.799561 ],
@@ -203,12 +203,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         },
         {     "AreaName": "Skalisty-ruines", 
-              "Type": "ContaminatedArea_Static", 
+              "Type": "SpookyArea", 
               "TriggerType": "EffectTrigger",
               "Data": { 
                 "Pos": [ 13685.468750, 0, 2743.007080 ],
@@ -226,12 +226,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         },
         {     "AreaName": "Skalisty-Centrale-Nucléaire", 
-              "Type": "ContaminatedArea_Static", 
+              "Type": "SpookyArea", 
               "TriggerType": "EffectTrigger",
               "Data": { 
                 "Pos": [ 13700.557617, 22.456961, 2821.065918 ],
@@ -249,12 +249,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         },
         {     "AreaName": "Skalisty-Centrale-Nucléaire-2", 
-              "Type": "ContaminatedArea_Static", 
+              "Type": "SpookyArea", 
               "TriggerType": "EffectTrigger",
               "Data": { 
                 "Pos": [ 13700.557617, 0, 2821.065918 ],
@@ -272,12 +272,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         },
         {     "AreaName": "Skalisty-Port-1", 
-              "Type": "ContaminatedArea_Static", 
+              "Type": "SpookyArea", 
               "TriggerType": "EffectTrigger",
               "Data": { 
                 "Pos": [ 14305.975586, 7.25203, 2930.942627 ],
@@ -295,12 +295,12 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         },
         {     "AreaName": "Skalisty-Port-2", 
-              "Type": "ContaminatedArea_Static", 
+              "Type": "SpookyArea", 
               "TriggerType": "EffectTrigger",
               "Data": { 
                 "Pos": [ 14305.975586, 0, 2930.942627 ],
@@ -318,10 +318,68 @@
                 },
             "PlayerData": {
                 "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "TinyPartName": "graphics/particles/spooky_mist",
                 "PPERequesterType": "PPERequester_ContaminatedAreaTint"
             }
         }			
-		
+			
     ],
+
+	"SafePositions":[
+		[434, 13624],
+		[360, 10986],
+		[1412, 13505],
+		[1290, 11773],
+		[5742, 8568],
+		[4191, 4620],
+		[4949, 6569],
+		[1018, 7138],
+		[5041, 2640],
+		[6895, 7915],
+		[6128, 8120],
+		[4422, 8117],
+		[2811, 10209],
+		[1954, 2417],
+		[3633, 8708],
+		[5222, 5737],
+		[3546, 2630],
+		[2373, 5516],
+		[2462, 6879],
+		[1653, 3600],
+		[11774, 14570],
+		[8228, 9345],
+		[11100, 13400],
+		[9333, 8697],
+		[11513, 12203],
+		[4955, 10603],
+		[5090, 15054],
+		[6513, 14579],
+		[3483, 14941],
+		[4016, 11194],
+		[7607, 12384],
+		[4307, 9528],
+		[3266, 12352],
+		[4432, 13285],
+		[5473, 12455],
+		[9731, 13685],
+		[2745, 7784],
+		[8492, 14128],
+		[3501, 13292],
+		[7912, 10943],
+		[4165, 10134],
+		[10536, 7871],
+		[1467, 14288],
+		[5479, 9709],
+		[9453, 11963],
+		[319, 9212],
+		[8009, 14843],
+		[7206, 7158],
+		[12303, 13598],
+		[3435, 5959],
+		[4060, 12050],
+		[6633, 2988],
+		[870, 2095],
+		[10286, 9071],
+		[10371, 5690]
+	]
 }
